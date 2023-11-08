@@ -1,3 +1,3 @@
 # git-exercise
 
-Hello World!
+I love cats!
